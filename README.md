@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Syahmi</h1>
-<h3 align="center">A passionate web developer from Terengganu,Malaysia</h3>
+<h3 align="center">A passionate web developer from Malaysia</h3>
 
 <p align="center"><IMG src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </IMG></p>
